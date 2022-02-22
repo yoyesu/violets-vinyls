@@ -1,0 +1,39 @@
+html {
+  background-color: black;
+}
+header {
+  background-image:url('img/records.png');
+}
+h1 {
+  font-size: 100px;
+  color: white;
+  text-align: center;
+  font-family: 'Segoe UI', Verdana, sans-serif;
+}
+h2 {
+  font-size: 25px;
+  font-family: 'Segoe UI', Verdana, sans-serif;
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+}
+#selection {
+  background-color: #ef8354;
+}
+#selling {
+  background-color: #0e7c7b;
+}
+#live {
+  background-color: #9c538b;
+}
+img {
+  width: 500px;
+}
+a {
+  color: #ef8354;
+}
+a:hover {
+  color: #9c528b
+}
