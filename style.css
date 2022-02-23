@@ -16,6 +16,9 @@ h2 {
   color: white;
   text-align: center;
 }
+h3 {
+  color: white;
+}
 p {
   color: white;
 }
@@ -36,4 +39,10 @@ a {
 }
 a:hover {
   color: #9c528b
+}
+span {
+  font-weight: bold;
+}
+footer {
+  text-align: center;
 }
